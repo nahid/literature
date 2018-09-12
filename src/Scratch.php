@@ -2,7 +2,7 @@
 
 namespace Nahid\Literature;
 
-class Scratch
+abstract class Scratch
 {
     protected $_author = null;
     protected $_name = null;
